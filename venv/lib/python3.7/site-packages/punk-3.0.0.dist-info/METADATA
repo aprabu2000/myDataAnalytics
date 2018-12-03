@@ -1,0 +1,26 @@
+Metadata-Version: 2.0
+Name: punk
+Version: 3.0.0
+Summary: Primitives for Uncovering New Knowledge.
+Home-page: https://github.com/NewKnowledge/punk
+Author: New Knowledge
+Author-email: support@newknowledge.io
+License: MIT
+Description-Content-Type: UNKNOWN
+Keywords: TA1 primitive,feature selection,novelty detection
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: python-dateutil
+
+Machine Learning pipeline elements.
+
+
